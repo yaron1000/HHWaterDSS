@@ -1,0 +1,131 @@
+E:\编程\arcgis engine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.csprojResolveAssemblyReference.cache
+E:\编程\arcgis engine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.Properties.Resources.resources
+E:\编程\arcgis engine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.csproj.GenerateResource.Cache
+E:\编程\arcgis engine\MyPluginEngine\MyMainGIS\bin\Debug\MyMainGIS.exe.config
+E:\编程\arcgis engine\MyPluginEngine\MyMainGIS\bin\Debug\MyMainGIS.exe
+E:\编程\arcgis engine\MyPluginEngine\MyMainGIS\bin\Debug\MyMainGIS.pdb
+E:\编程\arcgis engine\MyPluginEngine\MyMainGIS\bin\Debug\MyMainTools.dll
+E:\编程\arcgis engine\MyPluginEngine\MyMainGIS\bin\Debug\MyPluginEngine.dll
+E:\编程\arcgis engine\MyPluginEngine\MyMainGIS\bin\Debug\log4net.dll
+E:\编程\arcgis engine\MyPluginEngine\MyMainGIS\bin\Debug\MyMainTools.pdb
+E:\编程\arcgis engine\MyPluginEngine\MyMainGIS\bin\Debug\MyPluginEngine.pdb
+E:\编程\arcgis engine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.MainGIS.resources
+E:\编程\arcgis engine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.exe
+E:\编程\arcgis engine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.pdb
+E:\编程\arcgis engine\MyPluginEngine\MyMainGIS\bin\Debug\dataPreMenuBar.dll
+E:\编程\arcgis engine\MyPluginEngine\MyMainGIS\bin\Debug\dataPreMenuBar.pdb
+D:\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\MyMainGIS.exe.config
+D:\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.exe
+D:\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.pdb
+D:\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.csprojResolveAssemblyReference.cache
+D:\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.MainGIS.resources
+D:\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.Properties.Resources.resources
+D:\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.csproj.GenerateResource.Cache
+D:\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\MyMainGIS.exe
+D:\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\MyMainGIS.pdb
+D:\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\MyMainTools.dll
+D:\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\MyPluginEngine.dll
+D:\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\log4net.dll
+D:\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\MyMainTools.pdb
+D:\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\MyPluginEngine.pdb
+D:\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\AForge.dll
+D:\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\Accord.dll
+D:\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\Accord.IO.dll
+D:\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\Accord.Math.dll
+D:\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\Accord.Statistics.dll
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\MyMainGIS.exe.config
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\MyMainGIS.exe
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\MyMainGIS.pdb
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\Accord.dll
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\Accord.IO.dll
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\Accord.Math.dll
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\Accord.Statistics.dll
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\AForge.dll
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\MyPluginEngine.dll
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\log4net.dll
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\MyPluginEngine.pdb
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.csprojResolveAssemblyReference.cache
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.MainGIS.resources
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.Properties.Resources.resources
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.csproj.GenerateResource.Cache
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.exe
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.pdb
+D:\77211356\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.csprojResolveAssemblyReference.cache
+D:\77211356\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.frmAttributeTable.resources
+D:\77211356\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.MainGIS.resources
+D:\77211356\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.Properties.Resources.resources
+D:\77211356\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.csproj.GenerateResource.Cache
+D:\77211356\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\MyMainGIS.exe.config
+D:\77211356\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\MyMainGIS.exe
+D:\77211356\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\MyMainGIS.pdb
+D:\77211356\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\Accord.dll
+D:\77211356\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\Accord.IO.dll
+D:\77211356\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\Accord.Math.dll
+D:\77211356\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\Accord.Statistics.dll
+D:\77211356\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\AForge.dll
+D:\77211356\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\MyPluginEngine.dll
+D:\77211356\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\bin\Debug\MyPluginEngine.pdb
+D:\77211356\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.exe
+D:\77211356\GitHub\PluginEngine\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.pdb
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyMainGIS\bin\Debug\MyMainGIS.exe.config
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyMainGIS\bin\Debug\MyMainGIS.exe
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyMainGIS\bin\Debug\MyMainGIS.pdb
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyMainGIS\bin\Debug\Accord.dll
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyMainGIS\bin\Debug\Accord.IO.dll
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyMainGIS\bin\Debug\Accord.Math.dll
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyMainGIS\bin\Debug\Accord.Statistics.dll
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyMainGIS\bin\Debug\AForge.dll
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyMainGIS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyMainGIS\bin\Debug\MyPluginEngine.dll
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyMainGIS\bin\Debug\office.dll
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyMainGIS\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyMainGIS\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyMainGIS\bin\Debug\MyPluginEngine.pdb
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyMainGIS\bin\Debug\office.xml
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.csprojResolveAssemblyReference.cache
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.frmAttributeTable.resources
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.MainGIS.resources
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.Properties.Resources.resources
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.csproj.GenerateResource.Cache
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.exe
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyMainGIS\obj\Debug\MyMainGIS.pdb
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyMainGIS\bin\Debug\log4net.dll
+D:\77211356\GitHub\YNDQHP\MyMainGIS\bin\Debug\MyMainGIS.exe.config
+D:\77211356\GitHub\YNDQHP\MyMainGIS\bin\Debug\MyMainGIS.exe
+D:\77211356\GitHub\YNDQHP\MyMainGIS\bin\Debug\MyMainGIS.pdb
+D:\77211356\GitHub\YNDQHP\MyMainGIS\bin\Debug\Accord.dll
+D:\77211356\GitHub\YNDQHP\MyMainGIS\bin\Debug\Accord.IO.dll
+D:\77211356\GitHub\YNDQHP\MyMainGIS\bin\Debug\Accord.Math.dll
+D:\77211356\GitHub\YNDQHP\MyMainGIS\bin\Debug\Accord.Statistics.dll
+D:\77211356\GitHub\YNDQHP\MyMainGIS\bin\Debug\AForge.dll
+D:\77211356\GitHub\YNDQHP\MyMainGIS\bin\Debug\MyPluginEngine.dll
+D:\77211356\GitHub\YNDQHP\MyMainGIS\bin\Debug\MyPluginEngine.pdb
+D:\77211356\GitHub\YNDQHP\MyMainGIS\obj\Debug\MyMainGIS.csprojResolveAssemblyReference.cache
+D:\77211356\GitHub\YNDQHP\MyMainGIS\obj\Debug\MyMainGIS.frmAttributeTable.resources
+D:\77211356\GitHub\YNDQHP\MyMainGIS\obj\Debug\MyMainGIS.MainGIS.resources
+D:\77211356\GitHub\YNDQHP\MyMainGIS\obj\Debug\MyMainGIS.Properties.Resources.resources
+D:\77211356\GitHub\YNDQHP\MyMainGIS\obj\Debug\MyMainGIS.csproj.GenerateResource.Cache
+D:\77211356\GitHub\YNDQHP\MyMainGIS\obj\Debug\MyMainGIS.exe
+D:\77211356\GitHub\YNDQHP\MyMainGIS\obj\Debug\MyMainGIS.pdb
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\MyMainGIS.exe.config
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\MyMainGIS.exe
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\MyMainGIS.pdb
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\Accord.dll
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\Accord.IO.dll
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\Accord.Math.dll
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\Accord.Statistics.dll
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\AForge.dll
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\MyPluginEngine.dll
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\office.dll
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\MyPluginEngine.pdb
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\office.xml
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\obj\Debug\MyMainGIS.csprojResolveAssemblyReference.cache
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\obj\Debug\MyMainGIS.frmAttributeTable.resources
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\obj\Debug\MyMainGIS.MainGIS.resources
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\obj\Debug\MyMainGIS.Properties.Resources.resources
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\obj\Debug\MyMainGIS.csproj.GenerateResource.Cache
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\obj\Debug\MyMainGIS.exe
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\obj\Debug\MyMainGIS.pdb

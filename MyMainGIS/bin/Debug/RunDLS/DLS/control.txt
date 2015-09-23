@@ -1,0 +1,4 @@
+input_path=DLS\Input\ 
+output_path=DLS\Output\ 
+regionfile=region.grid
+demandfile=demand.in1

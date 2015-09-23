@@ -1,0 +1,39 @@
+E:\编程\arcgis engine\MyPluginEngine\MyPluginEngine\bin\Debug\MyPluginEngine.dll.config
+E:\编程\arcgis engine\MyPluginEngine\MyPluginEngine\bin\Debug\MyPluginEngine.dll
+E:\编程\arcgis engine\MyPluginEngine\MyPluginEngine\bin\Debug\MyPluginEngine.pdb
+E:\编程\arcgis engine\MyPluginEngine\MyPluginEngine\bin\Debug\log4net.dll
+E:\编程\arcgis engine\MyPluginEngine\MyPluginEngine\obj\Debug\MyPluginEngine.dll
+E:\编程\arcgis engine\MyPluginEngine\MyPluginEngine\obj\Debug\MyPluginEngine.pdb
+E:\编程\arcgis engine\MyPluginEngine\MyPluginEngine\obj\Debug\MyPluginEngine.csprojResolveAssemblyReference.cache
+D:\GitHub\PluginEngine\MyPluginEngine\MyPluginEngine\bin\Debug\MyPluginEngine.dll.config
+D:\GitHub\PluginEngine\MyPluginEngine\MyPluginEngine\bin\Debug\MyPluginEngine.dll
+D:\GitHub\PluginEngine\MyPluginEngine\MyPluginEngine\bin\Debug\MyPluginEngine.pdb
+D:\GitHub\PluginEngine\MyPluginEngine\MyPluginEngine\bin\Debug\log4net.dll
+D:\GitHub\PluginEngine\MyPluginEngine\MyPluginEngine\obj\Debug\MyPluginEngine.dll
+D:\GitHub\PluginEngine\MyPluginEngine\MyPluginEngine\obj\Debug\MyPluginEngine.pdb
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyPluginEngine\bin\Debug\MyPluginEngine.dll.config
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyPluginEngine\bin\Debug\MyPluginEngine.dll
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyPluginEngine\bin\Debug\MyPluginEngine.pdb
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyPluginEngine\bin\Debug\log4net.dll
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyPluginEngine\obj\Debug\MyPluginEngine.csprojResolveAssemblyReference.cache
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyPluginEngine\obj\Debug\MyPluginEngine.dll
+D:\GitHub\框架\PluginEngine\MyPluginEngine\MyPluginEngine\obj\Debug\MyPluginEngine.pdb
+D:\77211356\GitHub\PluginEngine\MyPluginEngine\MyPluginEngine\bin\Debug\MyPluginEngine.dll.config
+D:\77211356\GitHub\PluginEngine\MyPluginEngine\MyPluginEngine\bin\Debug\MyPluginEngine.dll
+D:\77211356\GitHub\PluginEngine\MyPluginEngine\MyPluginEngine\bin\Debug\MyPluginEngine.pdb
+D:\77211356\GitHub\PluginEngine\MyPluginEngine\MyPluginEngine\obj\Debug\MyPluginEngine.csprojResolveAssemblyReference.cache
+D:\77211356\GitHub\PluginEngine\MyPluginEngine\MyPluginEngine\obj\Debug\MyPluginEngine.dll
+D:\77211356\GitHub\PluginEngine\MyPluginEngine\MyPluginEngine\obj\Debug\MyPluginEngine.pdb
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyPluginEngine\bin\Debug\MyPluginEngine.dll.config
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyPluginEngine\bin\Debug\MyPluginEngine.dll
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyPluginEngine\bin\Debug\MyPluginEngine.pdb
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyPluginEngine\bin\Debug\log4net.dll
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyPluginEngine\obj\Debug\MyPluginEngine.csprojResolveAssemblyReference.cache
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyPluginEngine\obj\Debug\MyPluginEngine.dll
+C:\Users\lk\Desktop\MyPluginEngine_lizy0906\MyPluginEngine\MyPluginEngine\obj\Debug\MyPluginEngine.pdb
+D:\77211356\GitHub\YNDQHP\MyPluginEngine\bin\Debug\MyPluginEngine.dll.config
+D:\77211356\GitHub\YNDQHP\MyPluginEngine\bin\Debug\MyPluginEngine.dll
+D:\77211356\GitHub\YNDQHP\MyPluginEngine\bin\Debug\MyPluginEngine.pdb
+D:\77211356\GitHub\YNDQHP\MyPluginEngine\obj\Debug\MyPluginEngine.dll
+D:\77211356\GitHub\YNDQHP\MyPluginEngine\obj\Debug\MyPluginEngine.pdb
+D:\77211356\GitHub\YNDQHP\MyPluginEngine\obj\Debug\MyPluginEngine.csprojResolveAssemblyReference.cache

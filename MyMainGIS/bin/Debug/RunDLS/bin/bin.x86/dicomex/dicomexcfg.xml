@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><!DOCTYPE IDLDicomExCfg [
+   <!ELEMENT IDLDicomExCfg (QRScuServiceAE,StorScpServiceAE,StorScuServiceAE,EchoScuServiceAE,StorScpDir,AcceptAny,MaxQueryResponses,FileExtension,StorScpCtrlPort,SystemDir,Migrated,ServiceLists,ServiceTypes,ApplicationEntities)>	
+   <!ELEMENT QRScuServiceAE (#PCDATA)>
+   <!ELEMENT StorScpServiceAE (#PCDATA)>
+   <!ELEMENT StorScuServiceAE (#PCDATA)>
+   <!ELEMENT EchoScuServiceAE (#PCDATA)>
+   <!ELEMENT StorScpDir (#PCDATA)>
+   <!ELEMENT AcceptAny (#PCDATA)>
+   <!ELEMENT MaxQueryResponses (#PCDATA)>
+   <!ELEMENT FileExtension (#PCDATA)>
+   <!ELEMENT StorScpCtrlPort (#PCDATA)>
+   <!ELEMENT SystemDir (#PCDATA)>
+   <!ELEMENT Migrated (#PCDATA)>
+   <!ELEMENT ServiceLists (ServiceList)+>
+   <!ELEMENT ServiceList (#PCDATA)>
+   <!ELEMENT ServiceTypes (ServiceType)+>
+   <!ELEMENT ServiceType (#PCDATA)>
+   <!ELEMENT ApplicationEntities (ApplicationEntity)+>
+   <!ELEMENT ApplicationEntity (AET,Port,Hostname,ServiceList,ServiceType)>
+   <!ATTLIST ApplicationEntity Name CDATA "RSI_AE_QUERY_SCU">
+   <!ELEMENT AET (#PCDATA)>
+   <!ELEMENT Port (#PCDATA)>
+   <!ELEMENT Hostname (#PCDATA)>
+]><IDLDicomExCfg>
+
+<QRScuServiceAE>RSI_AE_QUERY_SCU</QRScuServiceAE>
+<StorScpServiceAE>RSI_AE_STOR_SCP</StorScpServiceAE>
+<StorScuServiceAE>RSI_AE_STOR_SCU</StorScuServiceAE>
+<EchoScuServiceAE>RSI_AE_ECHO_SCU</EchoScuServiceAE>
+<StorScpDir>EnterPathHere</StorScpDir>
+<AcceptAny>yes</AcceptAny>
+<MaxQueryResponses>100</MaxQueryResponses>
+<FileExtension>dcm</FileExtension>
+<StorScpCtrlPort>2511</StorScpCtrlPort>
+<SystemDir>SystemDirHere</SystemDir>
+<Migrated>no</Migrated>
+<ServiceLists>
+	<ServiceList>Query_SCP_Service_List</ServiceList>
+	<ServiceList>Query_SCU_Service_List</ServiceList>
+	<ServiceList>Storage_SCP_Service_List</ServiceList>
+	<ServiceList>Storage_SCU_Service_List</ServiceList>
+	<ServiceList>Echo_SCU_Service_List</ServiceList>
+</ServiceLists>
+<ServiceTypes>
+	<ServiceType>Query_SCP</ServiceType>
+	<ServiceType>Query_SCU</ServiceType>
+	<ServiceType>Storage_SCP</ServiceType>
+	<ServiceType>Storage_SCU</ServiceType>
+	<ServiceType>Echo_SCU</ServiceType>
+</ServiceTypes>
+<ApplicationEntities>
+	<ApplicationEntity Name="RSI_AE_QUERY_SCU">
+		<AET>RSI_QUERY_SCU</AET>
+		<Port>9999</Port>
+		<Hostname>localhost</Hostname>
+		<ServiceList>Query_SCU_Service_List</ServiceList>
+		<ServiceType>Query_SCU</ServiceType>
+	</ApplicationEntity>
+	<ApplicationEntity Name="RSI_AE_STOR_SCP">
+		<AET>RSI_STORE_SCP</AET>
+		<Port>2510</Port>
+		<Hostname>localhost</Hostname>
+		<ServiceList>Storage_SCP_Service_List</ServiceList>
+		<ServiceType>Storage_SCP</ServiceType>
+	</ApplicationEntity>
+	<ApplicationEntity Name="RSI_AE_STOR_SCU">
+		<AET>RSI_STORE_SCU</AET>
+		<Port>9999</Port>
+		<Hostname>localhost</Hostname>
+		<ServiceList>Storage_SCU_Service_List</ServiceList>
+		<ServiceType>Storage_SCU</ServiceType>
+	</ApplicationEntity>
+	<ApplicationEntity Name="RSI_AE_ECHO_SCU">
+		<AET>RSI_ECHO_SCU</AET>
+		<Port>9999</Port>
+		<Hostname>localhost</Hostname>
+		<ServiceList>Echo_SCU_Service_List</ServiceList>
+		<ServiceType>Echo_SCU</ServiceType>
+	</ApplicationEntity>
+</ApplicationEntities>
+</IDLDicomExCfg>

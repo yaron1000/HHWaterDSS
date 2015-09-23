@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPluginEngine", "MyPluginEngine\MyPluginEngine.csproj", "{40E8851D-BDE3-450E-AF6A-5D4CA40B0FB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMainGIS", "MyMainGIS\MyMainGIS.csproj", "{966B9B5F-AB06-4070-A0C5-D6F974922F39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseManageBar", "DatabaseManageBar\DatabaseManageBar.csproj", "{57587990-60B4-43D0-88BD-FC73F48A3881}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40E8851D-BDE3-450E-AF6A-5D4CA40B0FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40E8851D-BDE3-450E-AF6A-5D4CA40B0FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40E8851D-BDE3-450E-AF6A-5D4CA40B0FB7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{40E8851D-BDE3-450E-AF6A-5D4CA40B0FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40E8851D-BDE3-450E-AF6A-5D4CA40B0FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40E8851D-BDE3-450E-AF6A-5D4CA40B0FB7}.Release|x86.ActiveCfg = Release|Any CPU
+		{966B9B5F-AB06-4070-A0C5-D6F974922F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966B9B5F-AB06-4070-A0C5-D6F974922F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966B9B5F-AB06-4070-A0C5-D6F974922F39}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{966B9B5F-AB06-4070-A0C5-D6F974922F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966B9B5F-AB06-4070-A0C5-D6F974922F39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{966B9B5F-AB06-4070-A0C5-D6F974922F39}.Release|x86.ActiveCfg = Release|Any CPU
+		{57587990-60B4-43D0-88BD-FC73F48A3881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57587990-60B4-43D0-88BD-FC73F48A3881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57587990-60B4-43D0-88BD-FC73F48A3881}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{57587990-60B4-43D0-88BD-FC73F48A3881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57587990-60B4-43D0-88BD-FC73F48A3881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57587990-60B4-43D0-88BD-FC73F48A3881}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

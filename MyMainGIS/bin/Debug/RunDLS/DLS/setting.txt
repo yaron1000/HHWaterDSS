@@ -1,0 +1,2 @@
+path=IDL_project\
+control_file=control.txt

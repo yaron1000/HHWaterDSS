@@ -1,0 +1,31 @@
+:Base dmxml20.HLP
+1 Copyright=Copyright
+1 Contacting Technical Support=contact_tec_supp
+1 About Connect ODBC for XML
+2 About the XML Driver=About_the_XML_Driver
+2 Driver Requirements=XMLsystem
+2 Supported Tabular Formats for XML Documents=Supported_Tabular_Formats_for_XML_Documents
+2 Hierarchical-Formatted XML Document Support=Hierarchical_formatted_XML_File_Support
+2 Defining Locations=Defining_Locations
+2 Specifying Table Names in SQL Statements=Specifying_Table_Names_in_SQL_Statements
+1 Configuring Data Sources
+2 Configuring XML Data Sources=XMLconfigure
+2 General Tab, XML Driver Setup=IDHELPTEXT
+2 Advanced Tab, XML Driver Setup=IDAdvancedTEXT
+2 Options Tab, XML Driver Setup=IDOPTIONSTEXT
+2 General Tab, Configure Location=HLP_XMLLOCGENERAL
+2 Advanced Tab, Configure Location=HLP_XMLLOCADVANCED
+1 Connecting to a Data Source
+2 Connecting Using a Logon Dialog Box=XMLlogon
+2 Connecting Using a Connection String=XMLconnect
+2 Using Table and Row Hints=Using_Hints
+1 Developing Applications
+2 Data Types=XMLtypes
+2 Unicode Support=Unicode_Support
+2 Persisting a Result Set as an XML Data File=Persisting_a_Result_Set_as_an_XML_Data_File_
+2 ODBC Conformance Level=XMLfunctions
+2 Number of Connections and Statements Supported=XMLnumber
+2 SQL Supported
+3 SQL Statements=sql_statements
+3 Extensions to SQL Standards=sql_stds_summ
+3 Grammar Token Definitions=lex_def_top

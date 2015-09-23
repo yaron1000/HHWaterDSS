@@ -1,0 +1,3 @@
+IDL_WINRT_FILE_TYPE : EmbeddedRuntime
+IDL_WINRT_FILE : <IDL_DIR>\dls.sav
+IDL_PATH : +<IDL_DIR>
