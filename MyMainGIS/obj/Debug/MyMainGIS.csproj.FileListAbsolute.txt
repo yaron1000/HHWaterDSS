@@ -115,13 +115,8 @@ D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\Accord.IO.dll
 D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\Accord.Math.dll
 D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\Accord.Statistics.dll
 D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\AForge.dll
-D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\Microsoft.Office.Interop.Excel.dll
 D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\MyPluginEngine.dll
-D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\office.dll
-D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\Microsoft.Vbe.Interop.dll
-D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\Microsoft.Office.Interop.Excel.xml
 D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\MyPluginEngine.pdb
-D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\office.xml
 D:\77211356\GitHub\HHWaterDSS\MyMainGIS\obj\Debug\MyMainGIS.csprojResolveAssemblyReference.cache
 D:\77211356\GitHub\HHWaterDSS\MyMainGIS\obj\Debug\MyMainGIS.frmAttributeTable.resources
 D:\77211356\GitHub\HHWaterDSS\MyMainGIS\obj\Debug\MyMainGIS.MainGIS.resources
