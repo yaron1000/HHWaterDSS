@@ -124,3 +124,8 @@ D:\77211356\GitHub\HHWaterDSS\MyMainGIS\obj\Debug\MyMainGIS.Properties.Resources
 D:\77211356\GitHub\HHWaterDSS\MyMainGIS\obj\Debug\MyMainGIS.csproj.GenerateResource.Cache
 D:\77211356\GitHub\HHWaterDSS\MyMainGIS\obj\Debug\MyMainGIS.exe
 D:\77211356\GitHub\HHWaterDSS\MyMainGIS\obj\Debug\MyMainGIS.pdb
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\office.dll
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\77211356\GitHub\HHWaterDSS\MyMainGIS\bin\Debug\office.xml
